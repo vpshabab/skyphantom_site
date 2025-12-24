@@ -1,0 +1,120 @@
+{
+  "whatsappNumber": "+971542570925",
+  "companyName": "Sky Phantom Technical Services",
+  "email": "info@skyphantom.com",
+  "workingHours": "Mon - Sat: 8:00 AM - 7:00 PM",
+
+  "hero": {
+    "title": "Premium Technical Services",
+    "description": "Your trusted partner for expert painting service in Dubai, emergency AC repair, and deep cleaning. We provide professional handyman Dubai services to over 500+ villas and commercial spaces."
+  },
+
+  "servicesHeader": {
+    "title": "Our Expertise",
+    "description": "We provide comprehensive technical solutions tailored to the unique needs of Dubai properties. From AC repair Dubai to professional painting."
+  },
+
+  "services": [
+    {
+      "id": "painting",
+      "title": "Painting Service in Dubai",
+      "description": "Interior and exterior painting for villas, apartments, and commercial offices. Flawless finish guaranteed."
+    },
+    {
+      "id": "ac",
+      "title": "AC Intallation & Repair Dubai",
+      "description": "Professional AC maintenance, emergency AC repair Dubai, and duct cleaning to keep your home cool and efficient."
+    },
+    {
+      "id": "cleaning",
+      "title": "Deep Cleaning Dubai",
+      "description": "Deep cleaning services for post-construction, move-in/move-out, and regular home maintenance."
+    },
+    {
+      "id": "handyman",
+      "title": "Handyman Dubai",
+      "description": "Expert handyman services for all your home repair needs. Fast, reliable, and professional."
+    }
+  ],
+
+  "locations": [
+    "Jumeirah Beach Residence (JBR)",
+    "Dubai Marina",
+    "Al Safa",
+    "Jumeirah",
+    "Al Barsha",
+    "Discovery Gardens",
+    "Business Bay",
+    "Deira",
+    "Dubai Silicon Oasis (DSO)",
+    "Jumeirah Village Circle (JVC)",
+    "Jumeirah Village Triangle (JVT)",
+    "Palm Jumeirah"
+  ],
+
+  "blogPosts": [
+    {
+      "id": "ac-cleaning-essential-dubai",
+      "title": "Why AC Cleaning Is Essential in Dubai's Climate (2026 Guide)",
+      "excerpt": "Dubai summers put extreme pressure on AC units. Learn why regular cleaning saves money and prevents breakdowns.",
+      "category": "AC Maintenance",
+      "content": "<p>Dubai summers put extreme pressure on AC units. Dust, humidity, and continuous usage cause coils to block, filters to choke, and cooling efficiency to drop.</p><h3>Why You Should Clean Your AC Regularly</h3><ul><li>Helps the AC cool faster</li><li>Reduces DEWA bill by up to 20%</li><li>Prevents mould and bad smell</li><li>Increases AC lifespan</li><li>Reduces breakdowns during peak summer</li></ul><p>Most residents clean their AC only when it stops cooling — but preventive cleaning is cheaper than repair.</p><p class=\"cta-box\">👉 Book trusted AC cleaning on WhatsApp – same-day service available.</p>"
+    },
+    {
+      "id": "ac-servicing-vs-deep-cleaning",
+      "title": "AC Servicing vs AC Deep Cleaning — Which One Do You Need?",
+      "excerpt": "Many customers confuse basic servicing with deep cleaning. Here's a simple comparison to help you choose.",
+      "category": "AC Maintenance",
+      "content": "<p>Many customers confuse both. Here's a simple comparison:</p><h3>Basic AC Service (Quick Cleaning)</h3><ul><li>Filter washing</li><li>Drain line clearing</li><li>Light dusting</li><li>Basic cooling check</li></ul><p><strong>Best for:</strong> Monthly or quarterly maintenance.</p><h3>AC Deep Cleaning (Full Wet Wash)</h3><ul><li>Coil chemical washing</li><li>Fan & blower deep clean</li><li>Drain tray flushing</li><li>Anti-bacterial treatment</li><li>Fixing low cooling & bad smell</li></ul><p><strong>Best for:</strong></p><ul><li>Water leakage</li><li>Poor cooling</li><li>AC smelling bad</li><li>AC not serviced for 6–12 months</li></ul><p class=\"cta-box\">👉 Chat with a technician on WhatsApp for instant advice.</p>"
+    },
+    {
+      "id": "ac-maintenance-dewa-bill",
+      "title": "How AC Maintenance Reduces Your DEWA Bill in Dubai",
+      "excerpt": "AC units take 60–70% of your electricity bill. Discover how proper maintenance can lower your monthly costs.",
+      "category": "Cost Saving",
+      "content": "<p>AC units take 60–70% of your electricity bill. Dirty coils and clogged filters force the AC to work harder, increasing electricity usage.</p><h3>Maintenance That Lowers DEWA Bill</h3><ul><li>Washing coils</li><li>Cleaning filters</li><li>Checking gas levels</li><li>Removing dust from ducts</li><li>Fixing thermostat issues</li></ul><p>A well-maintained AC cools faster with less power.</p><p class=\"cta-box\">👉 Get a free AC inspection when you book through WhatsApp.</p>"
+    },
+    {
+      "id": "best-indoor-paints-dubai",
+      "title": "Best Indoor Paints for Dubai Homes (Humidity & Dust Friendly)",
+      "excerpt": "Because of humidity, AC usage, and dust, Dubai walls need special paint types. Find out which is best for your home.",
+      "category": "Painting",
+      "content": "<p>Because of humidity, AC usage, and dust, Dubai walls need special paint types.</p><h3>Recommended Paint Types</h3><ul><li><strong>Acrylic Emulsion:</strong> Best for bedrooms & living rooms</li><li><strong>Washable Paint:</strong> Perfect for kitchens & kids' rooms</li><li><strong>Anti-Mould Paint:</strong> Needed in bathrooms</li><li><strong>Weather Shield Paint:</strong> For exterior villa walls</li></ul><p>Choosing the right paint avoids cracking, peeling, and fungus growth.</p><p class=\"cta-box\">👉 Message us on WhatsApp for a free colour consultation.</p>"
+    },
+    {
+      "id": "prepare-home-for-painting",
+      "title": "How to Prepare Your Home for Painting (Step-by-Step)",
+      "excerpt": "A clean and properly prepared surface gives a long-lasting finish. Follow these steps for professional results.",
+      "category": "Painting",
+      "content": "<p>A clean and properly prepared surface gives a long-lasting finish.</p><h3>Preparation Steps</h3><ul><li>Cover furniture & flooring</li><li>Remove old paint flakes</li><li>Fill cracks & holes</li><li>Smooth walls with sanding</li><li>Apply primer for durability</li></ul><p>Proper preparation makes a huge difference in the final result.</p><p class=\"cta-box\">👉 We offer professional painting with complete protection & cleanup.</p>"
+    },
+    {
+      "id": "painting-costs-dubai",
+      "title": "Villa & Apartment Painting Costs in Dubai (Transparent Guide)",
+      "excerpt": "Painting prices depend on size, paint quality, and labour. Get a transparent breakdown of average costs in Dubai.",
+      "category": "Cost Guide",
+      "content": "<p>Painting prices depend on size, paint quality, and labour.</p><h3>Average Prices</h3><ul><li><strong>Studio:</strong> AED 350 – 650</li><li><strong>1BHK:</strong> AED 700 – 900</li><li><strong>2BHK:</strong> AED 900 – 1,300</li><li><strong>Villa (3BR):</strong> AED 1,800 – 3,500</li></ul><p>Prices may vary based on number of coats and wall conditions.</p><p class=\"cta-box\">👉 Send your floor plan on WhatsApp for an instant quote.</p>"
+    },
+    {
+      "id": "common-home-repairs-dubai",
+      "title": "Top 10 Most Common Home Repairs in Dubai (2025)",
+      "excerpt": "Dubai apartments face recurring issues due to humidity and building age. Here are the most frequent handyman requests.",
+      "category": "Handyman",
+      "content": "<p>Dubai apartments face recurring issues due to humidity, AC usage, and building age.</p><h3>Most Frequent Handyman Requests</h3><ul><li>Door lock repair</li><li>Curtain fixing</li><li>TV mounting</li><li>Furniture assembly</li><li>Kitchen cabinet repair</li><li>Tap & mixer replacement</li><li>Wall shelf installation</li><li>Minor electrical fixes</li><li>Tile & grout repair</li><li>Painting touch-ups</li></ul><p>A good handyman saves hours of stress and avoids poor DIY results.</p><p class=\"cta-box\">👉 Need a handyman today? Chat on WhatsApp for quick booking.</p>"
+    },
+    {
+      "id": "regular-maintenance-benefits",
+      "title": "Why You Need Regular Home Maintenance in Dubai",
+      "excerpt": "Ignoring small issues leads to bigger damage later. Learn why regular maintenance is cheaper in the long run.",
+      "category": "Maintenance",
+      "content": "<p>Ignoring small issues leads to bigger damage later.</p><h3>Regular Maintenance Helps:</h3><ul><li>Prevent AC breakdowns</li><li>Stop water leakage</li><li>Avoid electrical short circuits</li><li>Keep cabinets and hinges working</li><li>Reduce repair costs</li></ul><p>A yearly or bi-annual package is cheaper than calling different technicians again and again.</p><p class=\"cta-box\">👉 Ask us for our monthly & annual maintenance packages.</p>"
+    },
+    {
+      "id": "move-in-move-out-checklist",
+      "title": "Move-In / Move-Out Maintenance Checklist in Dubai",
+      "excerpt": "Before moving into a new apartment, ensure everything is working. Use this checklist to avoid surprises.",
+      "category": "Moving Guide",
+      "content": "<p>Before moving into a new apartment, ensure everything is working.</p><h3>Checklist</h3><ul><li>AC cooling test</li><li>Painting touch-ups</li><li>Complete cleaning</li><li>Electrical outlet check</li><li>Door & lock alignment</li><li>Water heater test</li><li>Kitchen cabinet repair</li><li>Bathroom silicone sealing</li></ul><p>This gives you a fresh, clean, and problem-free home from Day 1.</p><p class=\"cta-box\">👉 We provide full move-in packages: Painting + AC + Cleaning.</p>"
+    }
+  ]
+}
